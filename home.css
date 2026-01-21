@@ -8,20 +8,58 @@
     text-align: center;
     /* display: inline-block; */
     /* height: 404px; */
+    /* border: solid yellow 2px; */
+    position: relative;
 }
-.container p {
+/* .container p {
     color: white;
     text-align: center;
     display: inline-block;
     /* position: absolute; */
-}
+ 
 
 .container img {
     border-radius: 20%;
     height: 42px;
     width: 43px;
+    top: 3px;
+    /* border: solid yellow 2px; */
+    position: relative;
 }
 .container div {
     background-color: red;
+    height: 20px;
+    width: 104px;
+    display: inline-block;
+    border-radius: 8%;
+    bottom: 15px;
+    left: 20px;
+    /* border: solid yellow 2px; */
+    position: absolute;
     
+}
+.p {
+    display: inline;
+    top: 10px;
+    color: white;
+    font-size: 15px;
+    /* border: solid yellow 2px; */
+    
+}
+.i {
+    color: white;
+    /* display: block; */
+    /* height: 1px; */
+    /* width: 1px; */
+    font-size: 12px;
+}
+.e {
+    color: #ffffffc0;
+    /* display: block; */
+    /* height: 1px; */
+    /* width: 1px; */
+    font-size: 12px;
+    position: absolute;
+    right: 5%;
+    bottom: 15px;
 }
