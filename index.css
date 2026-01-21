@@ -1,0 +1,45 @@
+p {
+    color: green;
+    background-color: rgb(255, 247, 240);
+    width: 1000;
+    height: 1000;
+}
+
+table, th, td {
+    border: 5px solid rgba(56, 105, 152, 50);
+    background-color: aqua;
+    border-radius: 10px;
+    width: 50%;
+    height: 50%;
+    font-size: larger;
+    font-weight: 700;
+    margin-right: 25%;
+    margin-bottom: 25%;
+    padding: 8px;
+}
+h1 {
+    color: blue;
+}
+.a {
+    width: 70%;
+    height: 100px;
+    margin: 10px ;
+    padding: 20px 30px;
+    background-color: beige;
+    color: blue;
+    border-radius: 50px;
+}
+.b {
+    background-color: blue;
+    width: 5px;
+    height: 5px;
+    border-radius: 25%;
+    padding: 40px;
+    margin:5% 10px;
+    border: 10px;
+    border-color: brown;
+    /* padding-block: 50%; */
+}
+.c{
+    background-color: red;
+}

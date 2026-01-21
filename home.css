@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    background-color: black;
+    /* display: flex; */
+    text-align: center;
+    /* display: inline-block; */
+    /* height: 404px; */
+}
+.container p {
+    color: white;
+    text-align: center;
+    display: inline-block;
+    /* position: absolute; */
+}
+
+.container img {
+    border-radius: 20%;
+    height: 42px;
+    width: 43px;
+}
+.container div {
+    background-color: red;
+    
+}
